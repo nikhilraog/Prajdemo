@@ -1,4 +1,7 @@
-**WELCOME TO KODING!**
+**WELCOME TO KODING!*""hi
+
+
+iHI*
 You've said goodbye to your localhost and are ready to develop software in the cloud!
 
 **Why Koding?**
